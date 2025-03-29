@@ -1,0 +1,81 @@
+[
+    {
+        "type": "mod_tileset",
+        "compatibility": [
+            "UNDEAD_PEOPLE_BASE",
+            "MSX++DEAD_PEOPLE",
+            "UNDEAD_PEOPLE"
+        ],
+        "tiles-new": [
+            {
+                "file": "pillow_tiles.png",
+                "tiles": [
+         {
+          "id": [
+            "bodypillow_var_bodypillow_boston",
+            "bodypillow_var_bodypillow_boston_lewd"
+          ],
+          "fg": 0
+        },
+		{
+          "id": "bodypillow_var_bodypillow_azurlane",
+          "fg": 1
+        },
+		{
+          "id": "bodypillow_var_bodypillow_femboy",
+          "fg": 2
+        },
+        {
+          "id": "bodypillow_var_bodypillow_furry",
+          "fg": 3
+        },
+        {
+          "id": "bodypillow_var_bodypillow_generic",
+          "fg": 4
+        },
+        {
+          "id": "bodypillow_var_bodypillow_gfl",
+          "fg": 5
+        },
+        {
+          "id": "bodypillow_var_bodypillow_goth",
+          "fg": 6
+        },
+        {
+          "id": "bodypillow_var_bodypillow_makeshift",
+          "fg": 7
+        },
+        {
+          "id": "bodypillow_var_bodypillow_survivor",
+          "fg": 8
+        },
+        {
+          "id": "bodypillow_var_bodypillow_tomboy",
+          "fg": 9
+        },
+        {
+          "id": "bodypillow_var_bodypillow_tsundere",
+          "fg": 10
+        },
+        {
+          "id": "bodypillow_var_bodypillow_vocaloid",
+          "fg": 11
+        },
+        {
+          "id": "bodypillow_var_bodypillow_vtuber",
+          "fg": 12
+        },
+        {
+          "id": "bodypillow_var_bodypillow_yandere",
+          "fg": 13
+        }
+            ],
+                "//": "range 0 to 16",
+                "sprite_width": 32,
+            "sprite_height": 32,
+            "sprite_offset_x": -1,
+            "sprite_offset_y": 1
+            }
+        ]
+    }
+]

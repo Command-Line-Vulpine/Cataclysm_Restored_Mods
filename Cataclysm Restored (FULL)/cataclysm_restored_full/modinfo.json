@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "cataclysm_restored_full",
+    "name": "Cataclysm Restored (FULL)",
+    "authors": [ "Command Line Vulpine" ],
+    "maintainers": [ "Command Line Vulpine" ],
+    "description": "- Intended to return the feel of CDDA 0.C era while retaining modern upgrades.\n- Portal storms are disabled, acid rain makes a return.\n- Breathability of clothing, and max item length of storage items greatly increased.\n- Removed welding rod requirements, disassembling sheets provide more cotton sheets.\n- ANBC and AEP suits can be dropped by Hazmat Zombies again.\n- Chicken Walker and Tank Drone can spawn again.\n- Body pillows update for the Undead People tileset.\n\n- See extended description in README.md.\n- This mod contains the FULL changeset of Cataclysm Restored, partial spins offs may be available.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.2"
+  }
+]
