@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "old_content_restored",
+    "name": "Old Content Restored",
+    "authors": [ "Command Line Vulpine" ],
+    "maintainers": [ "Command Line Vulpine" ],
+    "description": "- Restores items and monsters that have been removed or changed too much.  \n- This is a sub-mod of Cataclysm Restored, \n- install Cataclysm Restored FULL for the complete package.  \n- ANBC and AEP suits can be dropped by Hazmat Zombies again.\n- Chicken Walker and Tank Drone can spawn again.\n-  Small buffs to makeshift crowbar, cudgel, and quarterstaff. \n- Known Issues:\n- This barely touches the surface of removed content, theres much more work to be done.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.2"
+  }
+]

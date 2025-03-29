@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "no_portals",
+    "name": "No Portals",
+    "authors": [ "Command Line Vulpine" ],
+    "maintainers": [ "Command Line Vulpine" ],
+    "description": "- Removes Portal Storms from the game. \n- This is a sub-mod of Cataclysm Restored, \n- install Cataclysm Restored FULL for the complete package. \n- Portals spawned outside of storm weather should still exist.  \n- Known Issues: \n- Portal storms provide some kind of resource for some kind of objective. \n- I haven't added an alternate method of getting it, consider using the cheat menu.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.2"
+  }
+]

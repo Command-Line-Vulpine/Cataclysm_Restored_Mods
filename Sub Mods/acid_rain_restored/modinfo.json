@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "acid_rain_restored",
+    "name": "Acid Rain Restored",
+    "authors": [ "Command Line Vulpine" ],
+    "maintainers": [ "Command Line Vulpine" ],
+    "description": "- Adds functioning acid rain back into the game. \n- This is a sub-mod of Cataclysm Restored, \n- install Cataclysm Restored FULL for the complete package. \n- Tip: Light Acid Drizzle causes no damage, seek shelter when you see this weather.  \n- Known Issues: \n- Damage may be too high, acid only effects torso, acid doesn't damage clothing. \n- Weather is rare in cataclysm to begin with, acid rain occuring will be even more rare.",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.2"
+  }
+]
