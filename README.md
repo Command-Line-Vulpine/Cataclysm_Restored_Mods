@@ -22,7 +22,7 @@ I'm no professional developer, but I'm not new to making mods.  Back in the 0.C 
 
 #### What do you plan to change?
 
-Generally, Restored intends to return old features of the game, and disable old ones.  Not everything, in either case; but an attempt to merge the new and old in a positive way.  Basically imagine if the difficulty and lore direction of the game from say 0.D was continued to 0.H without pivoting.  The following is a list of changes made so far:
+Generally, Restored intends to return old features of the game, and rework new ones.  Not everything, in either case; but an attempt to merge the new and old in a positive way.  Basically imagine if the difficulty and lore direction of the game from say 0.D was continued to 0.H without pivoting.  The following is a list of changes made so far:
 
 
 v 0.2
