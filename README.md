@@ -1,6 +1,6 @@
 # Cataclysm: Restored
 
-Cataclysm: Restored is a fan fork of Cataclysm Dark Days Ahead, a turn-based survival game set in a post-apocalyptic world.  The purpose of this fork is to remove more recent changes to the game a portion of the fanbase does not like, and restore old features that were removed.  This build will not be for everyone, nor is it intended to.  It is likely to have bugs and half-implemented changes, as I am only an amateur at modding.
+Cataclysm: Restored is a set of mods for Cataclysm Dark Days Ahead, a turn-based survival game set in a post-apocalyptic world.  The purpose of this fork is to remove more recent changes to the game a portion of the fanbase does not like, and restore old features that were removed.  This build will not be for everyone, nor is it intended to.  It is likely to have bugs and half-implemented changes, as I am only an amateur at modding.
 
 ### MOD INFO!
 This is the mod version of Cataclysm Restored!  This lacks any changes that can only be done by compiling the game.  Example: Game defaults to single-pool points system.  Rename "survivor" back to Freeform.
